@@ -1,0 +1,62 @@
+body {
+    margin: 0;
+    background-color: #050505;
+    color: white;
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+.menu {
+    background-color: #111;
+    padding: 25px;
+    border-bottom: 2px solid #500;
+}
+
+.menu b {
+    color: #f00;
+    margin-right: 30px;
+}
+
+.menu a {
+    color: #ccc;
+    margin: 0 10px;
+    text-decoration: none;
+}
+
+.header {
+    background-color: #1a1a1a;
+    padding: 120px 20px;
+}
+
+.header h1 {
+    font-size: 60px;
+    color: #b00;
+}
+
+.shop {
+    padding: 60px 0;
+}
+
+.item {
+    display: inline-block;
+    margin: 15px;
+}
+
+.box {
+    width: 180px;
+    height: 180px;
+    background-color: #222;
+    border: 1px solid #444;
+}
+
+.banner {
+    background-color: #300;
+    padding: 100px 20px;
+    border-top: 3px solid red;
+}
+
+.footer {
+    padding: 40px;
+    background-color: #000;
+    color: #444;
+}
